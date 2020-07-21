@@ -4,7 +4,8 @@
 
 - I’m currently working on Cacti (Coming out soon).
 - I’m currently learning Kubernetes and Swift UI.
-- Ask me about managing a tech team, machine learning, designing platforms, and Swift.
+- Ask me about managing a tech team, machine learning, encryption, designing platforms, and Swift.
+- I'm passionate about privacy, online security, good design, and egalitarianism.
 - Cofounded: [Labyrinth](https://labyrinth.ai) and [Verizy](https://verizy.ai).
 - How to reach me: [vishalvshekkar.com](https://vishalvshekkar.com)
 - Pronouns: he/him
