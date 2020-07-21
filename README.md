@@ -8,5 +8,5 @@
 - I'm passionate about privacy, online security, good design, and egalitarianism.
 - Cofounded: [Labyrinth](https://labyrinth.ai) and [Verizy](https://verizy.ai).
 - How to reach me: [vishalvshekkar.com](https://vishalvshekkar.com)
-- Find more work on my [GitLab](https://gitlab.com/vishalvshekkar).
+- Find more of my work on [GitLab](https://gitlab.com/vishalvshekkar).
 - Pronouns: he/him
