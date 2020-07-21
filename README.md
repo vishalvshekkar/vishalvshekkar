@@ -1,4 +1,3 @@
-![Cartoonized face of Vishal](/vishal.png)
 ### I'm Vishal, Hi.
 
 > As a technologist who is passionate about creating products that invoke emotions, I have helped build over 18 products. I deeply involve myself in the architecture, planning, and development phases of products that employ both machine learning and platform development technologies. In my free time, I dabble in design and collect vinyl records.
