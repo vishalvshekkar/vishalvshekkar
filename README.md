@@ -10,7 +10,7 @@
 
 ---
 
-- Ask me about managing tech teams, machine learning, designing and scaling up tech platforms, encryption, and Swift.
+- Ask me about managing tech teams, machine learning, design, scaling tech platforms, encryption, and Swift.
 - I'm passionate about privacy, online security, good design, and egalitarianism.
 - Cofounded: [Labyrinth](https://labyrinth.ai) and [Verizy](https://verizy.ai).
 - How to reach me: [vishalvshekkar.com](https://vishalvshekkar.com)
