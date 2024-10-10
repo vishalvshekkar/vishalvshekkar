@@ -3,6 +3,7 @@
 > As a technologist who is passionate about creating products that invoke emotions, I have helped build over 20 products. I deeply involve myself in the architecture, planning, and development phases of products that employ both machine learning and platform development technologies. In my free time, I dabble in design and collect vinyl records.
 
 #### Currently
+- Heading Tech at [Akuri](https://www.akuri.ai).
 - Heading Tech at [Labyrinth](https://labyrinth.ai).
 - Working on [NextHub](https://nexthub.vishalvshekkar.com). Download it on the [App Store](https://apps.apple.com/us/app/next-hub-remote/id1633985403).
 - Working on [Cacti](https://cacti.ai). Download it on the [App Store](https://apps.apple.com/app/id1503660093).
